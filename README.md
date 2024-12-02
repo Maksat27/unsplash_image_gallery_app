@@ -2,6 +2,10 @@
 
 This is a React application that fetches images from the Unsplash API based on user search queries. It includes a light/dark theme toggle feature, global state management using the Context API, and server state management using React Query.
 
+## Live Demo
+
+You can access the live app here: [Unsplash Image Gallery App](https://unsplash-image-gallery-app.netlify.app/)
+
 ## Features
 
 - **Search Images**: Enter a search term to retrieve related images from the Unsplash API.
